@@ -12,9 +12,9 @@ A classic Snake game implementation in Python, with a few intentional quirks to 
 ## 🐛 Known "Features" (Bugs)
 
 This game comes with some charming quirks:
-- The snake might have occasional existential crises
+- The snake might have occasional existential crises (it was created by a Turtle, so ... no wondering)
 - Food items sometimes question their life choices
-- Score calculations may use snake math (approximately correct)
+- Score calculations may use snake or Turtle math (approximately correct)
 - Collision detection has a philosophical approach to boundaries
 
 ## 🚀 Getting Started
