@@ -17,17 +17,6 @@ This game comes with some charming quirks:
 - Score calculations may use snake or Turtle math (approximately correct)
 - Collision detection has a philosophical approach to boundaries
 
-## 📁 Project Structure
-
-Snake/
-├── main.py          # Main game loop and setup
-├── snake.py         # Snake logic and movement
-├── food.py          # Food spawning mechanics
-├── score.py         # Score tracking system
-├── .gitignore       # Python cache ignore rules
-└── README.md        # This file
-
-
 ## 🎯 How to Play :
 
 - Use arrow keys to control the snake
